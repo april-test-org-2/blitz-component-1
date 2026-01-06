@@ -1,2 +1,2 @@
 # test-service-3-public
-3-test-public 123
+3-test-public 
